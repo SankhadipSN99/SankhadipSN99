@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SankhadipSN99
+- 👋 Hi, I’m @Sankhadip_Nath
 - 👀 I’m interested in Coding, Data Visualisation, Civil_engineer by education
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on *****
